@@ -10,8 +10,8 @@ vous devrez crée un compte sur Facebook for develloppeur a partir de votre comp
 #### 2. Création d'une pages Facebook :
 - Création d'une page Facebook, ous devrez avoir une page Facebook , pour ceux qui ne veulent vraiment pas , faite un effort , vous pouvez la faire en privé et donc personne ne connaitra sont existance a pars vous , et si jamais vous pourrez la supprimez apres cela.
 - Alors si jamais vous ne savez pas comment en crée une c'est trés simple 
-   1. Connecter vous a votre compte Facebook,
-   1. En haut a droit vous aurez un petit bouton "Crée", cliquez dessus.
-   1. En suite vous cliquer sur "Page",
-   1. Maintenant suivez les étapes tous simplement.
+   * Connecter vous a votre compte Facebook,
+   * En haut a droit vous aurez un petit bouton "Crée", cliquez dessus.
+   * En suite vous cliquer sur "Page",
+   * Maintenant suivez les étapes tous simplement.
 
