@@ -1,4 +1,4 @@
-![messenger](./image/facebook-messengers.png)
+![messenger](image/facebook-messengers.png)
 # WorkshopMessenger
 ---
 ## Mise en place de l'api basique
