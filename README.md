@@ -1,4 +1,6 @@
+![messenger](image/facebook-messengers.png)
 # WorkshopMessenger
+---
 ## Mise en place de l'api basique
 ### Voici les differente etapes a suivres pour l'installation:
 #### 1. Hébergement d'un site:
@@ -15,7 +17,7 @@
    
 #### 3. Création d'un compte facebook for devellopeur :
 - Tous d'abord vous devez allez sur ce site https://developers.facebook.com/, Crée un compte dessus a partir de votre compte facebook sur le quel vous avez crée votre pages,
--Maintenant que vous avez votre compte de crée vous aller devoir faire plusieur chose :
+- Maintenant que vous avez votre compte de crée vous aller devoir faire plusieur chose :
   * Crée une "App" pour cela vous aller dans "Mes applications" -> "Cree une APP",
   * Donner lui un nom et rajouter votre adresse mail,
   * Vous etes a present sur une nouvelle page dans celle-ci cliquer sur "Tableaux de bord", 
