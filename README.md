@@ -12,7 +12,9 @@
 - Alors si jamais vous ne savez pas comment en crée une c'est trés simple 
    * Connecter vous a votre compte Facebook,
    * En haut a droit vous aurez un petit bouton "Crée", cliquez dessus.
+   ![bouton cree](https://github.com/Oliver-Vandevelde/WorkshopMessenger/blob/master/image/facebook.jpg)
    * En suite vous cliquer sur "Page",
+   ![bouton Page](https://github.com/Oliver-Vandevelde/WorkshopMessenger/blob/master/image/facebook2.jpg)
    * Maintenant suivez les étapes tous simplement.
    
 #### 3. Création d'un compte facebook for devellopeur :
